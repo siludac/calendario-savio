@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Calendario Consegne Savio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Calendario Consegne Savio</h1>
+
+<input type="text" id="search" placeholder="Cerca CAP o Comune...">
+
+<div id="results"></div>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
