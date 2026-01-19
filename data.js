@@ -37,7 +37,7 @@ const data = [
   { cap: "50021", comune: "Barberino Val d'Elsa", provincia: "FI", giorni: ["MER","VEN"] },
   { cap: "61040", comune: "Barchi", provincia: "PU", giorni: ["MAR","MER","GIO","VEN","SAB"] },
   { cap: "40052", comune: "Baricella", provincia: "BO", giorni: ["LUN","MAR","MER","GIO","VEN"] },
-  { cap: "06083", comune: "Bastia Umbra", provincia: "PG", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] }
+  { cap: "06083", comune: "Bastia Umbra", provincia: "PG", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "41030", comune: "Bastiglia", provincia: "MO", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "40053", comune: "Bazzano", provincia: "BO", giorni: ["MAR","GIO","VEN"] },
   { cap: "61026", comune: "Belforte all'Isauro", provincia: "PU", giorni: ["MER","VEN"] },
@@ -137,7 +137,7 @@ const data = [
   { cap: "41014", comune: "Castelvetro di Modena", provincia: "MO", giorni: ["LUN","MER","VEN"] },
   { cap: "40055", comune: "Castenaso", provincia: "BO", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "52029", comune: "Castiglion Fibocchi", provincia: "AR", giorni: ["MAR","GIO","SAB"] },
-  { cap: "52043", comune: "Castiglion Fiorentino", provincia: "AR", giorni: ["MAR","GIO","SAB"] }
+  { cap: "52043", comune: "Castiglion Fiorentino", provincia: "AR", giorni: ["MAR","GIO","SAB"] },
   { cap: "40035", comune: "Castiglione dei Pepoli", provincia: "BO", giorni: ["MAR","GIO","VEN"] },
   { cap: "06061", comune: "Castiglione del Lago", provincia: "PG", giorni: ["MAR","MER","GIO","VEN","SAB"] },
   { cap: "53023", comune: "Castiglione d'Orcia", provincia: "SI", giorni: ["MAR","GIO","SAB"] },
@@ -186,7 +186,7 @@ const data = [
   { cap: "40056", comune: "Crespellano", provincia: "BO", giorni: ["LUN","MAR","MER","GIO","VEN"] },
   { cap: "40014", comune: "Crevalcore", provincia: "BO", giorni: ["LUN","MAR","GIO","VEN"] },
   { cap: "60034", comune: "Cupramontana", provincia: "AN", giorni: ["MAR","MER","GIO","VEN"] },
-  { cap: "51024", comune: "Cutigliano", provincia: "PT", giorni: ["LUN","MER","VEN"] }
+  { cap: "51024", comune: "Cutigliano", provincia: "PT", giorni: ["LUN","MER","VEN"] },
   { cap: "06053", comune: "Deruta", provincia: "PG", giorni: ["LUN","MAR","GIO","VEN"] },
   { cap: "50062", comune: "Dicomano", provincia: "FI", giorni: ["MER","VEN"] },
   { cap: "47891", comune: "Dogana", provincia: "RSM", giorni: ["MAR","GIO","VEN"] },
@@ -238,7 +238,7 @@ const data = [
   { cap: "50142", comune: "Firenze", provincia: "FI", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "50143", comune: "Firenze", provincia: "FI", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "50144", comune: "Firenze", provincia: "FI", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
-  { cap: "50145", comune: "Firenze", provincia: "FI", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] }
+  { cap: "50145", comune: "Firenze", provincia: "FI", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "41022", comune: "Fiumalbo", provincia: "MO", giorni: ["MAR","VEN"] },
   { cap: "52045", comune: "Foiano della Chiana", provincia: "AR", giorni: ["LUN","MER","VEN"] },
   { cap: "06034", comune: "Foligno", provincia: "PG", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
@@ -300,7 +300,7 @@ const data = [
   { cap: "60025", comune: "Loreto", provincia: "AN", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "52024", comune: "Loro Ciuffenna", provincia: "AR", giorni: ["MAR","MER","GIO","VEN","SAB"] },
   { cap: "52046", comune: "Lucignano", provincia: "AR", giorni: ["MER","VEN"] },
-  { cap: "48022", comune: "Lugo", provincia: "RA", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] }
+  { cap: "48022", comune: "Lugo", provincia: "RA", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "61026", comune: "Lunano", provincia: "PU", giorni: ["MER","VEN"] },
   { cap: "61023", comune: "Macerata Feltria", provincia: "PU", giorni: ["MER","VEN"] },
   { cap: "06063", comune: "Magione", provincia: "PG", giorni: ["MAR","GIO","VEN"] },
@@ -360,7 +360,7 @@ const data = [
   { cap: "40050", comune: "Monte San Pietro", provincia: "BO", giorni: ["MAR","GIO","VEN"] },
   { cap: "52048", comune: "Monte San Savino", provincia: "AR", giorni: ["MER","VEN"] },
   { cap: "60037", comune: "Monte San Vito", provincia: "AN", giorni: ["MAR","MER","GIO","VEN"] },
-  { cap: "06010", comune: "Monte Santa Maria Tiberina", provincia: "PG", giorni: ["MAR","MER","GIO","VEN","SAB"] }
+  { cap: "06010", comune: "Monte Santa Maria Tiberina", provincia: "PG", giorni: ["MAR","MER","GIO","VEN","SAB"] },
   { cap: "61020", comune: "Montecalvo in Foglia", provincia: "PU", giorni: ["MAR","MER","VEN"] },
   { cap: "60036", comune: "Montecarotto", provincia: "AN", giorni: ["MAR","MER","GIO","VEN"] },
   { cap: "51016", comune: "Montecatini-Terme", provincia: "PT", giorni: ["LUN","MER","VEN"] },
@@ -423,7 +423,7 @@ const data = [
   { cap: "41026", comune: "Pavullo nel Frignano", provincia: "MO", giorni: ["MAR","VEN"] },
   { cap: "61049", comune: "Peglio", provincia: "PU", giorni: ["MAR","MER","VEN"] },
   { cap: "50060", comune: "Pelago", provincia: "FI", giorni: ["MER","VEN"] },
-  { cap: "47864", comune: "Pennabilli", provincia: "RN", giorni: ["MAR","VEN"] }
+  { cap: "47864", comune: "Pennabilli", provincia: "RN", giorni: ["MAR","VEN"] },
   { cap: "52020", comune: "Pergine Valdarno", provincia: "AR", giorni: ["MAR","MER","GIO","VEN","SAB"] },
   { cap: "61045", comune: "Pergola", provincia: "PU", giorni: ["MAR","GIO","SAB"] },
   { cap: "06121", comune: "Perugia", provincia: "PG", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
@@ -486,7 +486,7 @@ const data = [
   { cap: "53017", comune: "Radda in Chianti", provincia: "SI", giorni: ["MAR","GIO","SAB"] },
   { cap: "53040", comune: "Radicofani", provincia: "SI", giorni: ["MAR","GIO","SAB"] },
   { cap: "53030", comune: "Radicondoli", provincia: "SI", giorni: ["MAR","GIO","SAB"] },
-  { cap: "53040", comune: "Rapolano Terme", provincia: "SI", giorni: ["MER","VEN"] }
+  { cap: "53040", comune: "Rapolano Terme", provincia: "SI", giorni: ["MER","VEN"] },
   { cap: "41017", comune: "Ravarino", provincia: "MO", giorni: ["MAR","GIO"] },
   { cap: "48121", comune: "Ravenna", provincia: "RA", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
   { cap: "48122", comune: "Ravenna", provincia: "RA", giorni: ["LUN","MAR","MER","GIO","VEN","SAB"] },
@@ -637,3 +637,5 @@ const data = [
   { cap: "44019", comune: "Voghiera", provincia: "FE", giorni: ["MAR","VEN"] },
   { cap: "41059", comune: "Zocca", provincia: "MO", giorni: ["MER","VEN"] },
   { cap: "40069", comune: "Zola Predosa", provincia: "BO", giorni: ["LUN","MAR","MER","GIO","VEN"] }
+]; 
+
